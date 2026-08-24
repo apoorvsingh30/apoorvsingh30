@@ -1,4 +1,16 @@
-# Apoorv Singh 👋
+```
+    ___    ____  ____   ____  ____  _   __
+   / _ |  / __ \/ __ \ / __ \/ __ \| | / /
+  / __ | / /_/ / /_/ / /_/ / /_/ / |/ / 
+ / ___ |/ ____/ ____/ ____/ _, _/|   /  
+/_/  |_/_/   /_/   /_/   /_/ |_| /_/|_| 
+                                         
+Product-Driven Engineer | B2B SaaS Builder
+```
+
+---
+
+## 👋 Apoorv Singh
 
 **Product-Driven Engineer | B2B SaaS Builder | Python & FastAPI Developer**
 
@@ -103,21 +115,6 @@ User-Centric Product Decisions
 
 ---
 
-## 🎓 Education & Growth
-
-- **MBA in Data Science** (Expected August 2026)
-  - Amity University Online
-  - Sharpening analytical and product strategy skills
-
-- **Post Graduate Diploma in Data Science & Analytics**
-  - National Institute of Electronics and Information Technology (NIELIT), Chennai
-  - November 2021
-
-- **Bachelor of Technology in Computer Science & Engineering**
-  - United College of Engineering & Management
-
----
-
 ## 🛠️ How I Work
 
 **Product to Code Pipeline**
@@ -177,7 +174,7 @@ Iteration Based on Data
 
 ## 🚀 Currently Focused On
 
-- 📊 **Product Strategy & Analytics:** Deepening data science and analytical skills (MBA in progress)
+- 📊 **Product Strategy & Analytics:** Deepening data science and analytical skills
 - 🔌 **API Engineering:** Advanced patterns in authentication, rate limiting, and webhooks
 - 🎯 **Zero-to-One Products:** Systematic approach to identifying and building new markets
 - 🤖 **AI-Assisted Development:** Leveraging Claude AI to move faster on implementation
@@ -205,15 +202,6 @@ I'm always interested in discussing product strategy, technical architecture, or
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/apoorvsingh30)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/apoorvsingh30)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:apoorvsingh30@gmail.com)
-
----
-
-## 📝 Latest Updates
-
-- 🎓 MBA in Data Science (in progress) – Expected August 2026
-- 🔨 Building B2B SaaS platforms with focus on product-engineering alignment
-- 📊 Deepening analytics and data-driven decision making capabilities
-- 🚀 Exploring next-generation product opportunities
 
 ---
 
