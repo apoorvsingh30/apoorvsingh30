@@ -16,8 +16,8 @@
 
 ## 📚 Background
 
-**B.Tech in Computer Science & Engineering** | Graduate  
-**MBA in Data Science** | Graduate (Expected August 2026)
+**B.Tech in Computer Science & Engineering** |
+**MBA in Data Science**
 
 Combining technical depth with strategic product thinking to build scalable solutions that matter.
 
