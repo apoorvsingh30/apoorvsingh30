@@ -7,10 +7,13 @@
                                                     
 Product-Driven Engineer | B2B SaaS Builder
 ```
+![Apoorv Singh](https://github.com/apoorvsingh30/apoorvsingh30/assets/53d7c86f-9560-430a-99c1-f12c1cec9e59.webp)
 
 ---
 
 ## Apoorv Singh
+
+!https://github.com/user-attachments/assets/53d7c86f-9560-430a-99c1-f12c1cec9e59
 
 **Product-Driven Engineer | B2B SaaS Builder | Python & FastAPI Developer**
 
