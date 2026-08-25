@@ -1,3 +1,4 @@
+```
 !!lllII;;;;::::::,,,","^"^,\i!!!;!<-}(/jrxnnuuvvvcczzzzzzzcv
 !!llllII;;;::::;:>?<~-_{-+<i><{]><?+})\frnuuuvvvcczzzzXXXzcc
 !!!!lllII;;;;l+}_+l](>!;,l+>>-+>--<lI,i][+|fuccccczzzXXXXzzc
@@ -48,6 +49,17 @@ _____+<il;,,,,,,,,;bn>[]]?]??]???-_(Lkhao##MWW&&&LuXXYJCCLLL
 -?---+~il;,,,:>1xfrpqqbp(?]]{0oo*###MMMMM#MM*r/xvcYJUUUYXXYn
 -----_<!l;:<fvnvn_xpdkhobqCQa##MMMMMMMMMMMMdf/tfuzXJYUYzzYXn
 
+
+
+  ___    ____  ____   ____  ____  _   __
+   / _ |  / __ \/ __ \ / __ \/ __ \| | / /
+  / __ | / /_/ / /_/ / /_/ / /_/ / |/ / 
+ / ___ |/ ____/ ____/ ____/ _, _/|   /  
+/_/  |_/_/   /_/   /_/   /_/ |_| /_/|_| 
+                                         
+Product-Driven Engineer | B2B SaaS Builder
+```
+
 ---
 
 ## Apoorv Singh
@@ -60,7 +72,7 @@ I design and ship scalable products end-to-end—from product strategy and roadm
 
 ## 📚 Background
 
-**B.Tech in Computer Science & Engineering** | Graduate
+**B.Tech in Computer Science & Engineering** | B.Tech Graduate
 **MBA in Data Science** | Graduate (Expected August 2026)
 
 Combining technical depth with strategic thinking to build products that matter.
