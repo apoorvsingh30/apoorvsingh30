@@ -1,23 +1,69 @@
-```
- _     _   _     _     _   _       _   _    _   _
-| |   | | | |   / \   | | | |     | \ | |  | \ | |
-| |   | | | |  / _ \  | | | |     |  \| |  |  \| |
-| |__ | |_| | / ___ \ | |_| |  _  | |\  |  | |\  |
-|____| \___/ /_/   \_\ \___/  (_) |_| \_|  |_| \_|
-                                                    
-Product-Driven Engineer | B2B SaaS Builder
-```
-![Apoorv Singh](https://github.com/apoorvsingh30/apoorvsingh30/assets/53d7c86f-9560-430a-99c1-f12c1cec9e59.webp)
+!!lllII;;;;::::::,,,","^"^,\i!!!;!<-}(/jrxnnuuvvvcczzzzzzzcv
+!!llllII;;;::::;:>?<~-_{-+<i><{]><?+})\frnuuuvvvcczzzzXXXzcc
+!!!!lllII;;;;l+}_+l](>!;,l+>>-+>--<lI,i][+|fuccccczzzXXXXzzc
+!!!!lllIIIl{-I^""l?I,",`:+?->ll><]][~+iii]?i+[rcczzzXXXXXXzz
+!!!!!ll!~;Il",,li!l^`^":>~!:,;,:;,Il+~>_<~_1+><jjnzXXXYYXXXz
+lllll!i\-i~;,"!>:^^"`^^,i->I!_iil;:`,"^;,`.`l];~-I~uXXYYYXXz
+llll!<<]I,^;><i:,,:II;:";]/>,^^`'"`..'`I<i,`'"i:,,;l}zYYYYXz
+llll]-;l:::;:,`'``^^`^:,!i!'    ..'..'^:I^`^`'`:^,`'`]cYYYXz
+lll~I",^`^^''`"'...',^,:^....`^''''","`"",^'...^"^``'"}zUYXz
+ll!l!"''''`.....'``^","``^:li!IIIIlIli!;:;:"^`.'''''`^ixYYXX
+li?l`''`^`'....'^,:;;Il<[{\tt/f|1(\|(1{([[--?>:'`^'.'^_xYYXX
+li+"''''''. .'"Ii<?1)\xUzjfftrcXz0m0UrxrYQJ0Yj_;:''^`i~zUYYX
+i?:^''''''''^I_{\xcJLQXvvxXQ0OZwwOQUczzULZZqmv]iil``"`-vYYYX
+!<l`''''..`"i-1tnzJCJXucCQ0OOZZZmO0QLCLQZwqdqU1-_!;"",!uJUYX
+ii>`'''..'"I+)jxuzYYnxU0ZZZOOOOOZmwwwmwwqwwm0c1<_]i"``;-XUYX
+!ii:`'...`:<{|txzUCYCZmqqwwmmwpddkdpqqbkkbqZ0z1>+?_<;:I\YUYX
+!ii!"''..`;_{\jvUQOOZwqddpwmZmQJYc/(|{{[/JdbwZC}!~-+!IlxUUYX
+!!!!I`'''`I])fvxxfunfjnU0Q0Ln)+<;"^``^^Ili<{(CZO|>!ll<_zUUYY
+!!!!!:'''^<?-!;,^``^""l_/xvXr?>ii!l>_}fccxrjfrLmZr!:,!{UJUUY
+l!!!i!`'';+,"":!!l;;IIl!_\vQ0n{-~>!""Il;+)/\\jUZwO[:,;|JJJUY
+l!!iii:'`->!+]{}?<:,,,;Ii/LqmCj]!;:}"``;~^l_)jv0qwt;,;zCCJUY
+!!iiii<:`]?--+l,>`'""I",+cwpd0Yvj())(tnxrftvJOwqpqv<"lCLCJJU
+!!iiiiil`-{-+I,;~})f\(1(fLpa*Z0QLQ0LQJYJOdhahahkdpZ?vqXfQLJU
+!iiiii!!;_))1{111)/zYUnrrObo%oOOOmqqwmqkkao*#*okdpq/Xjr]1CJU
+iiiiiiii>_(|ruYL0OOQQLcfJqboWMoqZqdbkhaaaaaoaaakbdqcJwwJz0CU
+iiiiii+nt1|uXLOwwmZZZLcu0wqdwZpkhmpbkhhaaahhkbbbpqmU{XLbQQJU
+iiiii>|~<}jnzULQOmwmZQ/[\uuXr;";|YL0qdbhhhkbdpqqwZOr|fcZOLJU
+i>>>>>u+-\nnncXJQZmmmU{I,i-?1/j/fQwZZmqppqddpwmmO0z}xc0C0CJU
+i>>>>>)?[{jjjxXXJLQZOjt|>l!>_[(uZwmZZOmwpppqmwmO0Ur[XhmpQCJU
+i>>>>><)1+(ttjuXUCLLJz|>I>?t(1|)\){|ftUQ00000Q0CXn({rmkwLCJU
+i>>>>>>[|-~|\/jnzXx{}___}(/tr){{11|?~_{uJCCJXrt/x\|]xZ0LLCJU
+>>>>>>>>/u<+{1/jnf_!!!+>i!!><l!_-[<<___|XYut[?[1\(?_zLLLCCJU
+>>>>>>>iivn;i_})//]+<<~]1tcUXccxjftucrtfvv(]+_]-]-~+CQLLLCJU
+>>>>>>>il!]>,;l<1|)}(t\}]?]?--?]1/rczcnrxn/[]~>!!!+nLLLLCCJU
+>>>>>>i!I;:,:,"!?11[)tj\}~>I,,l-)uYYXrxfjx\--iI!I<vCLQLLCJJU
+>>>>i>i!I;,,","I<]?~-1fnuvrj(/fxQUUzu\{)[}]-il:,-vOLLLLLCCUU
+>>>>>>i!I;,,,,""I><!<+[\//\fvvfjff11}[~<I>!!;,:<jCOpZLLLCJUU
+><<<<>i!I;,,,,,"""""":i>i<+_++-??<i>i;::,;;:,"+(zQm%&QLLCJUY
+>><<<<>!l;,,,,,,,"``'``,:IIII;IilIl,"`^"^",";<{rYm8%%#LLCJUU
+><<<<<>!l;,,,,,,,,:,``'```^^"^"^^^^^^^:"":l><1jY#%8%%%bOCJUY
+<<<<<<>!l;,,,,,,,,,_i;""",,,,:::;,,"::;l><>+(n*W&8%%%%k0CCUY
+<<~~~~>il;,,,,,,,,,I]<!llIIIIIlll!!>>~__+_?YaMW&88%%8ZJCCLLU
+~~~++~<il;,,,,,,,,,>n?_<>i!>><<~+_--]-_-(Lo*#MW888%&LYJCQ00L
+++++++<il;,,,,,,,,:pf{?]?++++_-?------vpao*#MMW&88dcXXJL00OO
+_____+<il;,,,,,,,,;bn>[]]?]??]???-_(Lkhao##MWW&&&LuXXYJCCLLL
+-----_~>l;,,,,,,,,!pm]>[[[]]]??]]ubkha**##MMWW&hnuzYYUJCJJUJ
+-----_~il;:,,,,,::(pwwji][}}{{{Lkhao*#MMMMMMMMUjvzXYJUUUXYYY
+-?---+~il;,,,:>1xfrpqqbp(?]]{0oo*###MMMMM#MM*r/xvcYJUUUYXXYn
+-----_<!l;:<fvnvn_xpdkhobqCQa##MMMMMMMMMMMMdf/tfuzXJYUYzzYXn
 
 ---
 
 ## Apoorv Singh
 
-https://github.com/user-attachments/assets/53d7c86f-9560-430a-99c1-f12c1cec9e59
-
 **Product-Driven Engineer | B2B SaaS Builder | Python & FastAPI Developer**
 
 I design and ship scalable products end-to-end—from product strategy and roadmap ownership to backend engineering. Passionate about solving real problems for businesses through thoughtful product decisions backed by data and deep technical implementation.
+
+---
+
+## 📚 Background
+
+**B.Tech in Computer Science & Engineering** | Graduate
+**MBA in Data Science** | Graduate (Expected August 2026)
+
+Combining technical depth with strategic thinking to build products that matter.
 
 ---
 
@@ -177,7 +223,7 @@ Iteration Based on Data
 
 ## 🚀 Currently Focused On
 
-- 📊 **Product Strategy & Analytics:** Deepening data science and analytical skills
+- 📊 **Product Strategy & Analytics:** Deepening data science and analytical skills (MBA in progress)
 - 🔌 **API Engineering:** Advanced patterns in authentication, rate limiting, and webhooks
 - 🎯 **Zero-to-One Products:** Systematic approach to identifying and building new markets
 - 🤖 **AI-Assisted Development:** Leveraging Claude AI to move faster on implementation
