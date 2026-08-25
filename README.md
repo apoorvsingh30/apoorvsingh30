@@ -1,107 +1,57 @@
-```
-!!lllII;;;;::::::,,,","^"^,\i!!!;!<-}(/jrxnnuuvvvcczzzzzzzcv
-!!llllII;;;::::;:>?<~-_{-+<i><{]><?+})\frnuuuvvvcczzzzXXXzcc
-!!!!lllII;;;;l+}_+l](>!;,l+>>-+>--<lI,i][+|fuccccczzzXXXXzzc
-!!!!lllIIIl{-I^""l?I,",`:+?->ll><]][~+iii]?i+[rcczzzXXXXXXzz
-!!!!!ll!~;Il",,li!l^`^":>~!:,;,:;,Il+~>_<~_1+><jjnzXXXYYXXXz
-lllll!i\-i~;,"!>:^^"`^^,i->I!_iil;:`,"^;,`.`l];~-I~uXXYYYXXz
-llll!<<]I,^;><i:,,:II;:";]/>,^^`'"`..'`I<i,`'"i:,,;l}zYYYYXz
-llll]-;l:::;:,`'``^^`^:,!i!'    ..'..'^:I^`^`'`:^,`'`]cYYYXz
-lll~I",^`^^''`"'...',^,:^....`^''''","`"",^'...^"^``'"}zUYXz
-ll!l!"''''`.....'``^","``^:li!IIIIlIli!;:;:"^`.'''''`^ixYYXX
-li?l`''`^`'....'^,:;;Il<[{\tt/f|1(\|(1{([[--?>:'`^'.'^_xYYXX
-li+"''''''. .'"Ii<?1)\xUzjfftrcXz0m0UrxrYQJ0Yj_;:''^`i~zUYYX
-i?:^''''''''^I_{\xcJLQXvvxXQ0OZwwOQUczzULZZqmv]iil``"`-vYYYX
-!<l`''''..`"i-1tnzJCJXucCQ0OOZZZmO0QLCLQZwqdqU1-_!;"",!uJUYX
-ii>`'''..'"I+)jxuzYYnxU0ZZZOOOOOZmwwwmwwqwwm0c1<_]i"``;-XUYX
-!ii:`'...`:<{|txzUCYCZmqqwwmmwpddkdpqqbkkbqZ0z1>+?_<;:I\YUYX
-!ii!"''..`;_{\jvUQOOZwqddpwmZmQJYc/(|{{[/JdbwZC}!~-+!IlxUUYX
-!!!!I`'''`I])fvxxfunfjnU0Q0Ln)+<;"^``^^Ili<{(CZO|>!ll<_zUUYY
-!!!!!:'''^<?-!;,^``^""l_/xvXr?>ii!l>_}fccxrjfrLmZr!:,!{UJUUY
-l!!!i!`'';+,"":!!l;;IIl!_\vQ0n{-~>!""Il;+)/\\jUZwO[:,;|JJJUY
-l!!iii:'`->!+]{}?<:,,,;Ii/LqmCj]!;:}"``;~^l_)jv0qwt;,;zCCJUY
-!!iiii<:`]?--+l,>`'""I",+cwpd0Yvj())(tnxrftvJOwqpqv<"lCLCJJU
-!!iiiiil`-{-+I,;~})f\(1(fLpa*Z0QLQ0LQJYJOdhahahkdpZ?vqXfQLJU
-!iiiii!!;_))1{111)/zYUnrrObo%oOOOmqqwmqkkao*#*okdpq/Xjr]1CJU
-iiiiiiii>_(|ruYL0OOQQLcfJqboWMoqZqdbkhaaaaaoaaakbdqcJwwJz0CU
-iiiiii+nt1|uXLOwwmZZZLcu0wqdwZpkhmpbkhhaaahhkbbbpqmU{XLbQQJU
-iiiii>|~<}jnzULQOmwmZQ/[\uuXr;";|YL0qdbhhhkbdpqqwZOr|fcZOLJU
-i>>>>>u+-\nnncXJQZmmmU{I,i-?1/j/fQwZZmqppqddpwmmO0z}xc0C0CJU
-i>>>>>)?[{jjjxXXJLQZOjt|>l!>_[(uZwmZZOmwpppqmwmO0Ur[XhmpQCJU
-i>>>>><)1+(ttjuXUCLLJz|>I>?t(1|)\){|ftUQ00000Q0CXn({rmkwLCJU
-i>>>>>>[|-~|\/jnzXx{}___}(/tr){{11|?~_{uJCCJXrt/x\|]xZ0LLCJU
->>>>>>>>/u<+{1/jnf_!!!+>i!!><l!_-[<<___|XYut[?[1\(?_zLLLCCJU
->>>>>>>iivn;i_})//]+<<~]1tcUXccxjftucrtfvv(]+_]-]-~+CQLLLCJU
->>>>>>>il!]>,;l<1|)}(t\}]?]?--?]1/rczcnrxn/[]~>!!!+nLLLLCCJU
->>>>>>i!I;:,:,"!?11[)tj\}~>I,,l-)uYYXrxfjx\--iI!I<vCLQLLCJJU
->>>>i>i!I;,,","I<]?~-1fnuvrj(/fxQUUzu\{)[}]-il:,-vOLLLLLCCUU
->>>>>>i!I;,,,,""I><!<+[\//\fvvfjff11}[~<I>!!;,:<jCOpZLLLCJUU
-><<<<>i!I;,,,,,"""""":i>i<+_++-??<i>i;::,;;:,"+(zQm%&QLLCJUY
->><<<<>!l;,,,,,,,"``'``,:IIII;IilIl,"`^"^",";<{rYm8%%#LLCJUU
-><<<<<>!l;,,,,,,,,:,``'```^^"^"^^^^^^^:"":l><1jY#%8%%%bOCJUY
-<<<<<<>!l;,,,,,,,,,_i;""",,,,:::;,,"::;l><>+(n*W&8%%%%k0CCUY
-<<~~~~>il;,,,,,,,,,I]<!llIIIIIlll!!>>~__+_?YaMW&88%%8ZJCCLLU
-~~~++~<il;,,,,,,,,,>n?_<>i!>><<~+_--]-_-(Lo*#MW888%&LYJCQ00L
-++++++<il;,,,,,,,,:pf{?]?++++_-?------vpao*#MMW&88dcXXJL00OO
-_____+<il;,,,,,,,,;bn>[]]?]??]???-_(Lkhao##MWW&&&LuXXYJCCLLL
------_~>l;,,,,,,,,!pm]>[[[]]]??]]ubkha**##MMWW&hnuzYYUJCJJUJ
------_~il;:,,,,,::(pwwji][}}{{{Lkhao*#MMMMMMMMUjvzXYJUUUXYYY
--?---+~il;,,,:>1xfrpqqbp(?]]{0oo*###MMMMM#MM*r/xvcYJUUUYXXYn
------_<!l;:<fvnvn_xpdkhobqCQa##MMMMMMMMMMMMdf/tfuzXJYUYzzYXn
+# 👋 Apoorv Singh
 
+<div align="center">
 
+### Product-Driven Engineer | B2B SaaS Builder | Python & FastAPI Developer
 
-  ___    ____  ____   ____  ____  _   __
-   / _ |  / __ \/ __ \ / __ \/ __ \| | / /
-  / __ | / /_/ / /_/ / /_/ / /_/ / |/ / 
- / ___ |/ ____/ ____/ ____/ _, _/|   /  
-/_/  |_/_/   /_/   /_/   /_/ |_| /_/|_| 
-                                         
-Product-Driven Engineer | B2B SaaS Builder
-```
+*Designing and shipping scalable products that solve real business problems*
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/apoorvsingh30)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/apoorvsingh30)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:apoorvsingh30@gmail.com)
 
-## Apoorv Singh
-
-**Product-Driven Engineer | B2B SaaS Builder | Python & FastAPI Developer**
-
-I design and ship scalable products end-to-end—from product strategy and roadmap ownership to backend engineering. Passionate about solving real problems for businesses through thoughtful product decisions backed by data and deep technical implementation.
+</div>
 
 ---
 
 ## 📚 Background
 
-**B.Tech in Computer Science & Engineering** | B.Tech Graduate
+**B.Tech in Computer Science & Engineering** | Graduate  
 **MBA in Data Science** | Graduate (Expected August 2026)
 
-Combining technical depth with strategic thinking to build products that matter.
+Combining technical depth with strategic product thinking to build scalable solutions that matter.
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-**Product Strategy & Engineering Combined**
-- Ship zero-to-one B2B SaaS products from concept to market
-- Own product roadmaps and make data-driven prioritization decisions
-- Build production-grade REST APIs and backend systems
-- Lead end-to-end product delivery with direct accountability for outcomes
+I design and ship scalable products **end-to-end**—from product strategy and roadmap ownership to backend engineering. I translate ambiguous business problems into clear technical requirements, build production systems that customers love, and measure everything that matters.
 
-**Core Expertise**
-- 6+ years building products across Real Estate, FinTech, and EdTech
-- Product-to-Engineering translation: turning ambiguous business problems into clear technical requirements
-- Shipped APIs, dashboards, integrations, and automation platforms used by hundreds of customers
-- Deep experience with zero-to-one product development and go-to-market strategies
+**6+ years** building B2B SaaS products across Real Estate, FinTech, and EdTech. I typically own products as a team of one, covering product decisions, engineering, and accountability for outcomes.
 
 ---
 
-## 💻 Technical Skills
+## 💼 Core Expertise
 
-### Backend & APIs
+| Area | Strength |
+|------|----------|
+| **Product Strategy** | Roadmap ownership, prioritization, zero-to-one product development |
+| **Backend Engineering** | REST APIs, FastAPI, Python, production systems with security & performance |
+| **System Design** | Authentication, rate limiting, caching, analytics dashboards |
+| **B2B SaaS** | Product-market fit, go-to-market strategy, customer-driven roadmaps |
+| **Data-Driven** | Usage analytics, adoption tracking, evidence-based decision making |
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logoColor=white)
 
 ### Databases & Infrastructure
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
@@ -109,165 +59,185 @@ Combining technical depth with strategic thinking to build products that matter.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 
-### Product & Low-Code Platforms
+### Product & Platforms
 ![Bubble.io](https://img.shields.io/badge/-Bubble.io-FFCC00?style=flat-square&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=Webflow&logoColor=white)
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white)
 
-### Integrations & Tools
-- **CRM & Business Tools:** HubSpot, Attio, Apollo.io, Zapier, Slack
-- **Payment & Compliance:** Stripe, Brevo, Calendly
-- **Analytics:** Mixpanel, Heap, SQL-based reporting
-- **Development:** Claude AI, GitHub, REST APIs, Webhooks
+### Integrations
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=HubSpot&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-626262?style=flat-square&logo=Stripe&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4F00?style=flat-square&logo=Zapier&logoColor=white)
 
-### Advanced Competencies
-- **Authentication & Security:** IP blocklisting, input sanitization, global error handling
-- **Performance:** Rate limiting, caching strategies, production optimization
-- **Analytics:** Usage dashboards, adoption tracking, data-driven decision making
-- **AI-Assisted Development:** Using Claude AI to accelerate implementation and debugging
+</div>
 
 ---
 
 ## 🚀 What I've Built
 
 ### REST APIs & Backend Systems
-- Production REST API with authentication, tiered rate limiting, and caching
-- Supabase-powered backend infrastructure on Render
-- Python + FastAPI implementations with advanced security measures
+> Production-grade API infrastructure with security, performance, and scalability
+
+- **FastAPI + Supabase** architecture on Render
+- Authentication, tiered rate limiting, caching strategies
+- Advanced security: IP blocklisting, input sanitization, global error handling
 - MongoDB REST APIs for seamless data exchange
 
 ### B2B SaaS Platforms
-- Zero-to-one compliance platform shipped to hundreds of users in first months
-- Real estate investment intelligence platform serving US, Canada, and UK markets
+> Zero-to-one products shipped to hundreds of customers across multiple sectors
+
+- **Real Estate Intelligence Platform** serving US, Canada, and UK markets
+- **Compliance Platform** from concept to hundreds of users in months
 - Multi-company account systems with sophisticated permission models
-- Data security frameworks with global error handling and abuse prevention
+- Data security frameworks preventing platform abuse
 
-### Product Features & Integrations
-- CRM integrations (HubSpot, Attio) for customer data sync
-- Slack-based notification and alerting systems
-- Financial dashboards with multi-account switching
-- In-built chatbots for customer support automation
+### Product Integrations
+> Customer-requested integrations that unlock new workflows
 
-### Automation & Workflow Systems
+- CRM sync (HubSpot, Attio) for automated data flow
+- Slack-based notifications and alerts
+- Financial dashboards with multi-account capabilities
+- AI-powered chatbots for customer support
+
+### Automation & Workflows
+> Business process optimization at scale
+
 - Sales CRM and Order Management Systems
-- Client communication automation workflows
+- Client communication workflows
 - KPI dashboards for leadership visibility
-- Google Sheets integration for data synchronization
-- Workflow migration and platform optimization
+- Data synchronization (Google Sheets, APIs)
 
 ---
 
 ## 📊 Product Philosophy
 
+<div align="center">
+
+**I believe great products come from:**
+
+</div>
+
 ```
-Conviction-Driven Development
-├── Talk to customers
-├── Identify real problems  
-├── Build solutions you'd use yourself
-├── Measure what matters
-└── Iterate on evidence
-
-User-Centric Product Decisions
-├── Translate ambiguous problems into clear specs
-├── Prioritize based on data + intuition
-├── Ship secure, scalable solutions
-└── Maintain direct accountability
-```
-
----
-
-## 🛠️ How I Work
-
-**Product to Code Pipeline**
-```
-Research & Synthesis
-  ↓
-Customer Feedback Analysis
-  ↓
-Requirement Definition
-  ↓
-Technical Implementation
-  ↓
-Usage Analytics & Measurement
-  ↓
-Iteration Based on Data
+Deep Customer Understanding  +  Strong Technical Execution  =  Products People Love
+     ↓                              ↓
+  • Talk to users                • Secure systems
+  • Identify real problems       • Performant code
+  • Understand workflows         • Maintainable architecture
+  • Test assumptions             • Scalable infrastructure
 ```
 
-**Product Skills**
-- Roadmap ownership and prioritization
-- Stakeholder and customer feedback synthesis
-- Requirement gathering and specification writing
-- Usage data analysis for decision making
-- Agile & Scrum methodologies
-- User-centric product development
-- Cross-functional collaboration
+**Core Principles:**
+- 🎯 Start with customer problems, not technology
+- 📊 Measure everything that matters
+- 🔄 Iterate based on evidence, not assumptions
+- ⚡ Ship secure, scalable solutions first
+- 🤝 Direct accountability for outcomes
 
 ---
 
-## 💡 Key Achievements
+## 🎯 How I Work
 
-✅ **Ship at Scale:** Built and shipped multiple production B2B SaaS products
-✅ **Zero-to-One Expert:** Launched zero-to-one products to market validation
-✅ **API Architecture:** Designed and shipped production-grade REST APIs with security & performance
-✅ **Customer-Focused:** Direct stakeholder input drives roadmap decisions
-✅ **Data-Driven:** Analytics dashboards guide prioritization and investment decisions
-✅ **Full-Stack Ownership:** Own products end-to-end from strategy to shipping
-✅ **Technical Depth:** Deep Python/FastAPI backend skills combined with product thinking
-✅ **Integration Master:** Ship customer-requested integrations with CRM, payments, and communication tools
+**My Development Process:**
 
----
+```
+1. RESEARCH & SYNTHESIS
+   └─ Talk to stakeholders, analyze usage data
 
-## 🌍 Sectors & Experience
+2. REQUIREMENT DEFINITION
+   └─ Translate ambiguous problems into clear specs
 
-**Real Estate Tech**
-- Real estate investment intelligence platforms
-- Customer data management at scale
+3. TECHNICAL IMPLEMENTATION
+   └─ Build production-grade solutions
 
-**FinTech**
-- Compliance platforms and financial dashboards
-- Payment processing integrations
+4. MEASUREMENT & ANALYTICS
+   └─ Track adoption, identify friction
 
-**EdTech**
-- Student journey automation
-- Loan processing and account management
+5. DATA-DRIVEN ITERATION
+   └─ Prioritize improvements based on evidence
+```
 
----
-
-## 🚀 Currently Focused On
-
-- 📊 **Product Strategy & Analytics:** Deepening data science and analytical skills (MBA in progress)
-- 🔌 **API Engineering:** Advanced patterns in authentication, rate limiting, and webhooks
-- 🎯 **Zero-to-One Products:** Systematic approach to identifying and building new markets
-- 🤖 **AI-Assisted Development:** Leveraging Claude AI to move faster on implementation
-- 💼 **B2B SaaS Best Practices:** Shipping scalable platforms with strong product-engineering alignment
+**My Strengths:**
+- ✅ Owning products end-to-end
+- ✅ Translating business problems into technical solutions
+- ✅ Building APIs and systems that scale
+- ✅ Making prioritization decisions with conviction
+- ✅ Shipping secure, performant code
+- ✅ Learning and adapting quickly
 
 ---
 
-## 📈 What Success Looks Like
+## 🌍 Industry Experience
 
-For me, a successful product:
-- Solves a real, validated customer problem
-- Ships with strong technical foundations (secure, performant, maintainable)
-- Gets measured through usage data and customer feedback
-- Evolves based on evidence, not assumptions
-- Delivers clear value that justifies the customer's investment
+<div align="center">
 
-I'm equally comfortable making product calls and shipping the code to implement them.
+| Sector | Focus | Outcome |
+|--------|-------|---------|
+| **Real Estate Tech** | Investment intelligence, market data | Platforms serving 3 countries |
+| **FinTech** | Compliance automation, financial dashboards | Products for regulated industries |
+| **EdTech** | Student workflows, loan processing | End-to-end customer journey systems |
+
+</div>
+
+---
+
+## 📈 Key Achievements
+
+<div align="center">
+
+| Achievement | Impact |
+|-------------|--------|
+| 🚀 **Shipped at Scale** | Multiple production B2B SaaS platforms |
+| 🎯 **Zero-to-One Expert** | Validated and launched new products to market |
+| 🔌 **API Architecture** | Production REST APIs with security & performance |
+| 📊 **Data-Driven** | Built analytics dashboards guiding roadmap decisions |
+| 🏆 **Full Ownership** | End-to-end accountability from strategy to shipping |
+| 🔐 **Security-First** | Prevented platform abuse, protected customer data |
+| ⚡ **Fast Iteration** | Shipped features and fixes based on customer feedback |
+
+</div>
+
+---
+
+## 🔥 Currently Focused On
+
+- 📊 **Advanced Analytics & Product Strategy** — MBA in Data Science deepening strategic skills
+- 🔌 **API Engineering Excellence** — Authentication patterns, rate limiting, webhooks
+- 🎯 **Zero-to-One Product Development** — Systematic approach to identifying new markets
+- 🤖 **AI-Assisted Development** — Leveraging Claude AI to ship faster
+- 💼 **B2B SaaS Best Practices** — Building scalable platforms with product-engineering alignment
+
+---
+
+## 💡 What I Value
+
+> **"The best products come from deep customer understanding combined with strong technical execution. I build products I'd want to use myself."**
+
+- 🎯 **Customer Problems Over Technology** — Start with real needs
+- 📊 **Measurement Over Assumptions** — Let data guide decisions
+- ⚡ **Shipping Over Perfection** — Iterate in the real world
+- 🔐 **Quality Over Speed** — Secure, maintainable code matters
+- 🤝 **Accountability Over Excuses** — Own outcomes
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing product strategy, technical architecture, or building something meaningful.
+I'm always interested in discussing product strategy, technical architecture, or building something meaningful together.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/apoorvsingh30)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/apoorvsingh30)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:apoorvsingh30@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/apoorvsingh30)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/apoorvsingh30)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:apoorvsingh30@gmail.com)
+
+</div>
 
 ---
 
-### 📌 Philosophy
+<div align="center">
 
-> "The best products come from deep customer understanding combined with strong technical execution. I build products I'd want to use myself."
+**Last Updated: August 2026**  
+**Status: 🟢 Building & Learning**
 
-*Last Updated: August 2026 | Status: Building & Learning*
+</div>
